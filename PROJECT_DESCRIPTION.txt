@@ -1,0 +1,30 @@
+PROJECT TITLE: ResearchMate – AI Research Paper Assistant
+
+OBJECTIVE:
+To develop an AI-powered research paper assistant using Google Gemini API.
+
+TECHNOLOGIES:
+- React
+- TypeScript
+- Node.js
+- Express
+- Google Gemini API
+
+FEATURES:
+1. Abstract generation
+2. Introduction generation
+3. Literature review generation
+4. Research objectives and questions
+5. Research gap identification
+6. Research methodology suggestions
+7. Conclusion generation
+8. Section regeneration
+9. Document reader
+10. Citation and ethics guidance
+11. Manuscript export
+
+PROMPT ENGINEERING:
+Few-Shot Prompting is implemented through input-output examples in the Gemini system instruction.
+
+PURPOSE:
+To help students and researchers generate structured academic research content efficiently.

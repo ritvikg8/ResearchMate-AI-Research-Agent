@@ -1,0 +1,6 @@
+{
+  "name": "ResearchMate – AI Research Paper Assistant",
+  "description": "An AI-powered academic research paper assistant that helps college students and researchers generate structured abstracts, introductions, literature reviews, research objectives, gap analyses, and methodologies using Google Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
